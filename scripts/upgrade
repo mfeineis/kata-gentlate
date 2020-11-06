@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+rm -rf deps/torotoro && git clone --single-branch --branch master https://github.com/mfeineis/torotoro deps/torotoro
